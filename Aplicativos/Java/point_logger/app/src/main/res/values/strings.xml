@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PointLogger</string>
+    <string name="titulo_menu_principal">Menu Principal</string>
+    <string-array name="intervalo_pausa_options">
+        <item>Segundos</item>
+        <item>Minutos</item>
+    </string-array>
+    <string-array name="tempo_options">
+        <item>Segundos</item>
+        <item>Minutos</item>
+    </string-array>
+</resources>
