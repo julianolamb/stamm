@@ -1,0 +1,21 @@
+# Arquivos de Build
+/build
+/app/build
+
+# Arquivos de configuração local
+local.properties
+.gradle
+*.iml
+
+# Arquivos do Android Studio e IntelliJ
+.idea
+*.hprof
+.DS_Store
+
+# Arquivos do sistema operacional
+Thumbs.db
+
+# Arquivos de log e empacotamento
+*.log
+*.apk
+*.aab
